@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
 * Java中变量的声明和定义
 * Java中每一个变量都属于一种类型

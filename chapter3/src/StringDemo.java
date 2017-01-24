@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
  * 字符串示例
  */
@@ -30,7 +32,7 @@ public class StringDemo{
 		System.out.println("字符串以dd结尾 = "+ endsWith);
 
 		boolean startsWith = str1.startsWith("Ab");
-		System.out.println("字符串以Ab开始 = "+ endsWith);
+		System.out.println("字符串以Ab开始 = "+ startsWith);
 
 		int index = str.indexOf("bc");
 		System.out.println("bc在字符串"+str+"中的位置:"+index);

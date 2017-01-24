@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
  * 括号和运算符优先级
  */

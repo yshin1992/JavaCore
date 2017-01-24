@@ -1,3 +1,5 @@
+package chapter3;
+
 import java.util.Date;
 /**
 * 格式化输出

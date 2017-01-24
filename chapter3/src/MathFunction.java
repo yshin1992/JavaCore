@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
  * Java中的数学函数和常量
  */

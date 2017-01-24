@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
 *Java中常量的命名:以final修饰符修饰的变量
 *被final修饰的变量只能被赋值一次

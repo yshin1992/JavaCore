@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
  * 枚举常量
  */

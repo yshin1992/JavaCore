@@ -1,3 +1,5 @@
+package chapter3;
+
 import java.util.Scanner;
 /**
 * Java中控制台中读取输入

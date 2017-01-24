@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
 * Java8种基本数据类型
 *	整型 byte short int long

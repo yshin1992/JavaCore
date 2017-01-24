@@ -1,3 +1,5 @@
+package chapter3;
+
 /**
 * 这里类名必须和文件名保持一致，因为使用了public修饰符
 */
