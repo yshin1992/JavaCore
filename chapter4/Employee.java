@@ -47,10 +47,6 @@ public class Employee {
 		this.hireDay = cal.getTime();
 	}
 
-	public Employee()
-	{
-		
-	}
 	public String getName() {
 		return name;
 	}

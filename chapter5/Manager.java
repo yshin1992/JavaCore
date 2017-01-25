@@ -4,6 +4,10 @@ import chapter4.Employee;
 
 public class Manager extends Employee {
 	
+	public Manager(String name, double salary, int year, int month, int day) {
+		super(name, salary, year, month, day);
+	}
+
 	private double bouns;//奖金
 
 	public double getBouns() {
@@ -16,8 +20,8 @@ public class Manager extends Employee {
 	
 	public double getSalary()
 	{
-		//这里不能访问父类的私有成员变量salary
-		return this.bouns + this.getSalary();
+		//这里不能访问父类的私有成员变量salary,访问方法
+		return this.bouns + super.getSalary();
 	}
 	
 
